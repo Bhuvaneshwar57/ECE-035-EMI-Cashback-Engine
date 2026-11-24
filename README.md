@@ -111,6 +111,6 @@ Expected outputs are not provided for this set. Validate your engine with your o
 
 ## Project Demo Video
 
-**Five-Minute Project Demonstration – ECE-053**
+**Five-Minute Project Demonstration – ECE-035**
 
 [Watch our Project Demo](https://drive.google.com/file/d/19j-N7JR4WIK74f3GS9dptYX-CUrVvkvO/view?usp=drivesdk)
