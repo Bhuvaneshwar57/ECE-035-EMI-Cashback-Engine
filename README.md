@@ -109,9 +109,8 @@ Expected outputs are not provided for this set. Validate your engine with your o
 `month, customer_id, card_issuer, cashback_granted, cashback_reversed, net_liability, cap_remaining`
 
 
-Project Demo Video
+## Project Demo Video
 
-Five-Minute Project Demonstration – ECE-053
+**Five-Minute Project Demonstration – ECE-053**
 
-[Watch our Project Demo]
-(https://drive.google.com/file/d/19j-N7JR4WIK74f3GS9dptYX-CUrVvkvO/view?usp=drivesdk)
+[Watch our Project Demo](https://drive.google.com/file/d/19j-N7JR4WIK74f3GS9dptYX-CUrVvkvO/view?usp=drivesdk)
