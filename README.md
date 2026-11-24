@@ -113,4 +113,4 @@ Project Demo Video
 
 Five-Minute Project Demonstration – ECE-053
 
-"Watch our Project Demo" (https://drive.google.com/file/d/19j-N7JR4WIK74f3GS9dptYX-CUrVvkvO/view?usp=drive_link)
+"Watch our Project Demo" (https://drive.google.com/file/d/19j-N7JR4WIK74f3GS9dptYX-CUrVvkvO/view?usp=drivesdk)
